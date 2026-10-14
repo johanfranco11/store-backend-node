@@ -1,0 +1,13 @@
+{
+  "name": "pre-entrega-fakestore",
+  "version": "1.0.0",
+  "description": "CLI para gestionar productos usando la API FakeStore",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Johan Franco",
+  "license": "ISC"
+}
